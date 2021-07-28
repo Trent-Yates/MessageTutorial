@@ -11,7 +11,7 @@ function Process() {
             </h5>
             <div className="incoming">
                 <h4>Incoming Data</h4>
-                <p>{state.cipher}</p>
+                <p>{state.cypher}</p>
             </div>
             <div className="crypt">
                 <h4>Decrypted Data</h4>
